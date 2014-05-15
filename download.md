@@ -86,7 +86,7 @@ to compile successfully, but CMOR returns an error message on execution, you
 should contact Karl Taylor (taylor13@llnl.gov).
 
 [Documentation](https://github.com/PCMDI/cmor/raw/master/Doc/cmor_users_guide.pdf)  
-of CMOR itself (  cmor_users_guide.pdf  ) is  in the   Doc subdirectory  included in the distribution. 
+of CMOR itself (  cmor\_users\_guide.pdf  ) is  in the   Doc subdirectory  included in the distribution. 
 There is a sample code listed as an appendix in the documentation. 
 This should help you to write a code for converting your data to  
 [ CF-compliant ](http://cf-convention.github.io)  data, as required for IPCC and other MIP submissions. 

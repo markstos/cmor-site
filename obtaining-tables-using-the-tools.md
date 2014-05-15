@@ -15,7 +15,7 @@ Thereafter
 
 Python-based Tools
 
-The Lib directory contains a file named tables_manip_tools.py
+The Lib directory contains a file named tables\_manip\_tools.py
 
 make sure this file is either in your current directory or is accessible in
 your python path
