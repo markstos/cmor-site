@@ -32,4 +32,4 @@ this will build the site in the _site directory please review your changes
     git commit -am "MBH: updating a-page with content x"
     git push
     
-the site htt://kitt.llnl.gov/cmor has a cron job and updates every hour, if you need a quicker responce please email one of us.
+the site http://kitt.llnl.gov/cmor has a cron job and updates every hour, if you need a quicker responce please email one of us.
