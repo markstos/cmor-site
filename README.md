@@ -22,7 +22,7 @@ if you run in to problems try homebrews ruby
 ###CMOR
 If you don't have write access to the repo, please fork the repo and then submit a pull request
 
-     git clone git@gitihub.com:aims-group/cmor-site.git
+     git clone git@github.com:PCMDI/cmor-site.git
      cd cmor-site
      vim a-page.md
      jekyll build
